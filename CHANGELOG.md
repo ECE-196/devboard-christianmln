@@ -7,7 +7,7 @@ Christian Molina
 ...
 
 ### Added
-DevBoard picture uploaded
+DevBoard picture reuploaded
 ...
 
 ### Changed
